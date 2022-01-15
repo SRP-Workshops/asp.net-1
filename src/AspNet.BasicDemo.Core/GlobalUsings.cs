@@ -1,0 +1,15 @@
+global using AspNet.BasicDemo.Core.Abstractions.Services;
+global using Microsoft.Extensions.DependencyInjection;
+global using AspNet.BasicDemo.Core.Abstractions;
+global using Microsoft.EntityFrameworkCore;
+global using AspNet.BasicDemo.Core.Abstractions.Repositories;
+global using AspNet.BasicDemo.Core.Customer.Dto;
+global using AspNet.BasicDemo.Core.Company.Dto;
+global using AspNet.BasicDemo.Core.Company;
+global using AspNet.BasicDemo.Core.Customer;
+global using AutoMapper;
+global using Microsoft.Extensions.Logging;
+global using System.Reflection;
+global using AspNet.BasicDemo.Core.AutoMapperProfiles;
+global using AspNet.BasicDemo.Core.Entities;
+global using AspNet.BasicDemo.Core.Repositories;

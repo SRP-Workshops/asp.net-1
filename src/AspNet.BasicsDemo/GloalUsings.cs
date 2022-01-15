@@ -1,0 +1,14 @@
+global using System.Reflection;
+global using Microsoft.AspNetCore.Mvc;
+global using Microsoft.EntityFrameworkCore;
+global using AspNet.BasicDemo.Core;
+global using AspNet.BasicDemo.Core.Abstractions.Services;
+global using AspNet.BasicDemo.Core.Company.Dto;
+global using AspNet.BasicDemo.Core.Entities;
+global using AspNet.BasicDemo.Core.Customer.Dto;
+global using AspNet.BasicDemo.Core.Abstractions;
+global using AspNet.BasicsDemo.Infrastructure;
+global using Microsoft.EntityFrameworkCore.Metadata.Builders;
+global using AspNet.BasicDemo.Core.Exceptions;
+global using Microsoft.AspNetCore.Mvc.Filters;
+global using AspNet.BasicsDemo.Filters;
